@@ -1,0 +1,126 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 100%;
+}
+
+body {
+  margin: 0;
+}
+
+
+
+#profile-image {
+  width: 100%;
+  height: auto;
+  margin: 0;
+ 
+}
+
+.head {
+  position: relative;
+  }
+
+.name-info {
+  text-align: center;
+  width: 100%;
+  background-color: rgba(162, 162, 162, .6);
+  font-size: 5vw;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  position: absolute;
+  bottom: 15px;
+  letter-spacing: 1px;
+}
+
+#university {
+  width: 50%;
+  height: auto;
+  border-radius: 50%;
+  max-width: 80%;
+  
+}
+
+#computer {
+  width: 50%;
+  height: auto;
+  border-radius: 50%;
+  max-width: 80%;
+
+  
+}
+
+#personal-growth {
+  width: 50%;
+  height: auto;
+  border-radius: 50%;
+  max-width: 80%;
+}
+
+table, td, th {
+  border-right: 1.5px solid lightgrey;
+  border-left: 1.5px solid lightgrey;
+  border-collapse: collapse;
+  
+}
+
+td {
+  text-align: center;
+  font-size: 3vw;
+}
+
+h2 {
+  font-size: 3.7vw;
+}
+
+.tabel {
+  table-layout: fixed;
+  width: 80%;
+  margin: 0 10%;
+}
+
+.study, .dev, .grow {
+  padding-left: 4px;
+  padding-right: 4px;
+  letter-spacing: 1px;
+  word-spacing: 1px;
+  margin-top: 15px;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(69, 95, 37);
+  font-size: 5vw;
+}
+
+a:hover {
+  color: rgb(211, 140, 33);
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  display: inline;
+  padding: 5px;
+}
+
+.contact {
+  text-align: center;
+  margin-top: 30px;
+}
+
+h3 {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 6vw;
+  color: rgb(147, 192, 93);
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  margin-bottom: 5px;
+}
+
+
+
+
+

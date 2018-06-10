@@ -1,0 +1,1 @@
+Aceasta este cartea mea de vizita online. Aici afli pe scurt cu ce ma ocup, unde locuiesc si cum ma poti contacta.
