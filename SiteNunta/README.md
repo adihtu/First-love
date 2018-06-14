@@ -1,0 +1,1 @@
+Acesta este primul meu site real pe care l-am facut. Complet responsiv. No JavaScript. Multumesc CodeBerrySchool!
